@@ -11,6 +11,7 @@
 		4AB2D50E249B0DC70077CAFA /* LifeCardFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB2D50D249B0DC70077CAFA /* LifeCardFunction.swift */; };
 		4AB2D510249B0DF40077CAFA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AB2D50F249B0DF40077CAFA /* Main.storyboard */; };
 		4AB2D513249B0E110077CAFA /* TestingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB2D512249B0E110077CAFA /* TestingViewController.swift */; };
+		4AB2D535249B1A880077CAFA /* NewFramework.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 4AB2D534249B1A880077CAFA /* NewFramework.podspec */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		4AB2D50D249B0DC70077CAFA /* LifeCardFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LifeCardFunction.swift; sourceTree = "<group>"; };
 		4AB2D50F249B0DF40077CAFA /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		4AB2D512249B0E110077CAFA /* TestingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingViewController.swift; sourceTree = "<group>"; };
+		4AB2D534249B1A880077CAFA /* NewFramework.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = NewFramework.podspec; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +54,7 @@
 		4AB2D504249B0DB00077CAFA /* NewFramework */ = {
 			isa = PBXGroup;
 			children = (
+				4AB2D534249B1A880077CAFA /* NewFramework.podspec */,
 				4AB2D505249B0DB00077CAFA /* NewFramework.h */,
 				4AB2D506249B0DB00077CAFA /* Info.plist */,
 				4AB2D50D249B0DC70077CAFA /* LifeCardFunction.swift */,
@@ -139,6 +142,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AB2D535249B1A880077CAFA /* NewFramework.podspec in Resources */,
 				4AB2D510249B0DF40077CAFA /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
