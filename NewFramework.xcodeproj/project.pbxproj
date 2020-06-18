@@ -12,6 +12,7 @@
 		4AB2D510249B0DF40077CAFA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AB2D50F249B0DF40077CAFA /* Main.storyboard */; };
 		4AB2D513249B0E110077CAFA /* TestingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB2D512249B0E110077CAFA /* TestingViewController.swift */; };
 		4AB2D535249B1A880077CAFA /* NewFramework.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 4AB2D534249B1A880077CAFA /* NewFramework.podspec */; };
+		4AB2D540249B21740077CAFA /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AB2D53F249B21740077CAFA /* ReplaceMe.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,7 +22,8 @@
 		4AB2D50D249B0DC70077CAFA /* LifeCardFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LifeCardFunction.swift; sourceTree = "<group>"; };
 		4AB2D50F249B0DF40077CAFA /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		4AB2D512249B0E110077CAFA /* TestingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestingViewController.swift; sourceTree = "<group>"; };
-		4AB2D534249B1A880077CAFA /* NewFramework.podspec */ = {isa = PBXFileReference; lastKnownFileType = file; path = NewFramework.podspec; sourceTree = SOURCE_ROOT; };
+		4AB2D534249B1A880077CAFA /* NewFramework.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = NewFramework.podspec; sourceTree = SOURCE_ROOT; };
+		4AB2D53F249B21740077CAFA /* ReplaceMe.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReplaceMe.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 			children = (
 				4AB2D50F249B0DF40077CAFA /* Main.storyboard */,
 				4AB2D512249B0E110077CAFA /* TestingViewController.swift */,
+				4AB2D53F249B21740077CAFA /* ReplaceMe.swift */,
 			);
 			path = Project;
 			sourceTree = "<group>";
@@ -154,6 +157,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4AB2D540249B21740077CAFA /* ReplaceMe.swift in Sources */,
 				4AB2D50E249B0DC70077CAFA /* LifeCardFunction.swift in Sources */,
 				4AB2D513249B0E110077CAFA /* TestingViewController.swift in Sources */,
 			);
